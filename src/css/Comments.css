@@ -1,0 +1,15 @@
+.comments {
+  padding: 0 20px;
+}
+.comments__container {
+  margin-bottom: 0.5rem;
+  display: flex;
+}
+
+.comments__container div {
+  color: black;
+}
+.comments__container p {
+  font-size: 0.9rem;
+  color: #696969;
+}
